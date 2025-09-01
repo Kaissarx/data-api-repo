@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/api/items/([0-9]+)",
-      "dest": "/api/items/[id].js"
+      "dest": "/api/items/[id].js?id=$1"
     },
     {
       "src": "/api/(.*)",

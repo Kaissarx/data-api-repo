@@ -8,6 +8,10 @@
   ],
   "routes": [
     {
+      "src": "/api/items/([0-9]+)",
+      "dest": "/api/items/[id].js"
+    },
+    {
       "src": "/api/(.*)",
       "dest": "/api/$1"
     }

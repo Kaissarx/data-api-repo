@@ -1,0 +1,234 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "HyperFlex Gaming Throne 3.0",
+      "brief": "Maximum comfort for long gaming sessions with memory foam cushions and breathable PU leather.",
+      "details": "Built with a steel frame and premium padding, the HyperFlex Gaming Throne ensures durability and support. It features 4D adjustable armrests, a reclining back up to 160°, and smooth-rolling wheels for mobility. Perfect for both gaming and office use.",
+      "deImg":[
+        {"id":1,"Img-de":"/images/item-detail-img-1.png"},
+        {"id":2,"Img-de":"/images/item-detail-img-2.png"},
+        {"id":3,"Img-de":"/images/item-detail-img-3.png"}
+      ],
+      "colors": [
+        { "id": 1, "color": "#fdb82c", "active": true },
+        { "id": 2, "color": "#3ab7f7", "active": false },
+        { "id": 3, "color": "#fa5b5f", "active": false }
+      ],
+      "color": "#fdb82c",
+      "qty": 1,
+      "bgColor": "#fdb82c",
+      "price": 799,
+      "discount": 0.05,
+      "imgUrl": "/images/item-img-1.png",
+      "videoUrl": "https://www.youtube.com/watch?v=Fkey2ZvX6lU",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "ZenithX Ultimate Gaming Seat 4.0",
+      "brief": "Designed for pro gamers with ergonomic design and high-density cold-cure foam.",
+      "details": "The ZenithX features a reinforced metal base, heavy-duty casters, and high-density foam padding. Its breathable mesh and leather hybrid keeps you cool during marathon gaming. Includes detachable headrest and lumbar pillows.",
+      "deImg":[
+        {"id":1,"Img-de":"/images/item-detail-img-1.png"},
+        {"id":2,"Img-de":"/images/item-detail-img-2.png"},
+        {"id":3,"Img-de":"/images/item-detail-img-3.png"}
+      ],
+      "colors": [
+        { "id": 1, "color": "#fdb82c", "active": true },
+        { "id": 2, "color": "#3ab7f7", "active": false },
+        { "id": 3, "color": "#fa5b5f", "active": false }
+      ],
+      "color": "#fdb82c",
+      "qty": 1,
+      "bgColor": "#fa5b5f",
+      "price": 459,
+      "discount": 0.0,
+      "imgUrl": "/images/item-img-2.png",
+      "videoUrl": "https://www.youtube.com/watch?v=Fkey2ZvX6lU",
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "EvoMotion Gaming Cruiser 2.0",
+      "brief": "Reclining mechanism and rocker function built for dynamic gamers.",
+      "details": "This chair comes with an extendable footrest, 4D armrests, and a tilt lock system for customized comfort. Upholstered with scratch-resistant PU leather, it withstands daily use while keeping a sleek look.",
+      "deImg":[
+        {"id":1,"Img-de":"/images/item-detail-img-1.png"},
+        {"id":2,"Img-de":"/images/item-detail-img-2.png"},
+        {"id":3,"Img-de":"/images/item-detail-img-3.png"}
+      ],
+      "colors": [
+        { "id": 1, "color": "#fdb82c", "active": true },
+        { "id": 2, "color": "#3ab7f7", "active": false },
+        { "id": 3, "color": "#fa5b5f", "active": false }
+      ],
+      "color": "#fdb82c",
+      "qty": 1,
+      "bgColor": "#67bb4a",
+      "price": 579,
+      "discount": 0.1,
+      "imgUrl": "/images/item-img-3.png",
+      "videoUrl": "https://www.youtube.com/watch?v=Fkey2ZvX6lU",
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "NovaCore Elite Gaming Throne 1.0",
+      "brief": "Premium build and 165° recline for competitive gamers.",
+      "details": "Equipped with cold foam cushioning, heavy-duty frame, and full 165° recline, the NovaCore Elite is designed for extended gaming. Includes adjustable head and lumbar support to reduce fatigue.",
+      "deImg":[
+        {"id":1,"Img-de":"/images/item-detail-img-1.png"},
+        {"id":2,"Img-de":"/images/item-detail-img-2.png"},
+        {"id":3,"Img-de":"/images/item-detail-img-3.png"}
+      ],
+      "colors": [
+        { "id": 1, "color": "#fdb82c", "active": true },
+        { "id": 2, "color": "#3ab7f7", "active": false },
+        { "id": 3, "color": "#fa5b5f", "active": false }
+      ],
+      "color": "#fdb82c",
+      "qty": 1,
+      "bgColor": "#3ab7f7",
+      "price": 699,
+      "discount": 0.009,
+      "imgUrl": "/images/item-img-4.png",
+      "videoUrl": "https://www.youtube.com/watch?v=Fkey2ZvX6lU",
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "SpectraGlide Pro Gaming Chair",
+      "brief": "Luxury wide seat base with ergonomic shaping.",
+      "details": "Featuring precision stitching, premium leather, and robust steel construction, this chair provides maximum stability. Adjustable recline and rocking function add versatility for work and play.",
+      "deImg":[
+        {"id":1,"Img-de":"/images/item-detail-img-1.png"},
+        {"id":2,"Img-de":"/images/item-detail-img-2.png"},
+        {"id":3,"Img-de":"/images/item-detail-img-3.png"}
+      ],
+      "colors": [
+        { "id": 1, "color": "#fdb82c", "active": true },
+        { "id": 2, "color": "#3ab7f7", "active": false },
+        { "id": 3, "color": "#fa5b5f", "active": false }
+      ],
+      "color": "#fdb82c",
+      "qty": 1,
+      "bgColor": "#fdb82c",
+      "price": 749,
+      "discount": 0.02,
+      "imgUrl": "/images/item-img-5.png",
+      "videoUrl": "https://www.youtube.com/watch?v=Fkey2ZvX6lU",
+      "active": false
+    },
+    {
+      "id": 6,
+      "name": "TitanStrike Gaming Fortress",
+      "brief": "Extra-wide seat with industrial-grade steel reinforcement.",
+      "details": "With industrial-grade steel reinforcement, extra-wide seat, and breathable leather, this chair is built for heavy use. Comes with 4D armrests, a 170° recline, and smooth-rolling wheels for mobility.",
+      "deImg":[
+        {"id":1,"Img-de":"/images/item-detail-img-1.png"},
+        {"id":2,"Img-de":"/images/item-detail-img-2.png"},
+        {"id":3,"Img-de":"/images/item-detail-img-3.png"}
+      ],
+      "colors": [
+        { "id": 1, "color": "#fdb82c", "active": true },
+        { "id": 2, "color": "#3ab7f7", "active": false },
+        { "id": 3, "color": "#fa5b5f", "active": false }
+      ],
+      "color": "#fdb82c",
+      "qty": 1,
+      "bgColor": "#e64ba7",
+      "price": 399,
+      "discount": 0.15,
+      "imgUrl": "/images/item-img-6.png",
+      "videoUrl": "https://www.youtube.com/watch?v=Fkey2ZvX6lU",
+      "active": false
+    },
+    {
+      "id": 7,
+      "name": "CyberWave Gaming Throne",
+      "brief": "Neon-inspired accents with contoured backrest.",
+      "details": "Designed for competitive and casual gamers, the CyberWave offers breathable fabric panels, strong recline adjustment, and noise-free casters. Includes removable pillows for personalized comfort.",
+      "deImg":[
+        {"id":1,"Img-de":"/images/item-detail-img-1.png"},
+        {"id":2,"Img-de":"/images/item-detail-img-2.png"},
+        {"id":3,"Img-de":"/images/item-detail-img-3.png"}
+      ],
+      "colors": [
+        { "id": 1, "color": "#fdb82c", "active": true },
+        { "id": 2, "color": "#3ab7f7", "active": false },
+        { "id": 3, "color": "#fa5b5f", "active": false }
+      ],
+      "color": "#fdb82c",
+      "qty": 1,
+      "bgColor": "#dee0de",
+      "price": 849,
+      "discount": 0.05,
+      "imgUrl": "/images/item-img-7.png",
+      "videoUrl": "https://www.youtube.com/watch?v=Fkey2ZvX6lU",
+      "active": false
+    },
+    {
+      "id": 8,
+      "name": "QuantumForce X Gaming Pod",
+      "brief": "Futuristic gaming chair with integrated RGB lighting.",
+      "details": "Packed with premium features: integrated RGB lighting, USB charging ports, high-density cold foam, and adjustable recline. The QuantumForce is built for gamers who demand performance and flair.",
+      "deImg":[
+        {"id":1,"Img-de":"/images/item-detail-img-1.png"},
+        {"id":2,"Img-de":"/images/item-detail-img-2.png"},
+        {"id":3,"Img-de":"/images/item-detail-img-3.png"}
+      ],
+      "colors": [
+        { "id": 1, "color": "#fdb82c", "active": true },
+        { "id": 2, "color": "#3ab7f7", "active": false },
+        { "id": 3, "color": "#fa5b5f", "active": false }
+      ],
+      "color": "#fdb82c",
+      "qty": 1,
+      "bgColor": "#a7a7a7",
+      "price": 1049,
+      "discount": 0.1,
+      "imgUrl": "/images/item-img-8.png",
+      "videoUrl": "https://www.youtube.com/watch?v=Fkey2ZvX6lU",
+      "active": false
+    }
+  ],
+  "services": [
+    {
+      "_id": 1,
+      "name": "Free Shipping",
+      "details": "Enjoy free nationwide shipping on all gaming chairs with fast and secure delivery.",
+      "icon": "bi bi-truck"
+    },
+    {
+      "_id": 2,
+      "name": "24/7 Customer Support",
+      "details": "Our team is available around the clock to assist with orders, setup, and troubleshooting.",
+      "icon": "bi bi-headset"
+    },
+    {
+      "_id": 3,
+      "name": "2-Year Warranty",
+      "details": "Every chair comes with a full 2-year warranty covering manufacturing defects and parts.",
+      "icon": "bi bi-shield-check"
+    },
+    {
+      "_id": 4,
+      "name": "Easy Returns",
+      "details": "Not satisfied? Return your gaming chair within 30 days with hassle-free processing.",
+      "icon": "bi bi-arrow-repeat"
+    },
+    {
+      "_id": 5,
+      "name": "Assembly Assistance",
+      "details": "Get step-by-step assembly guides or optional in-home installation services.",
+      "icon": "bi bi-tools"
+    },
+    {
+      "_id": 6,
+      "name": "Exclusive Rewards",
+      "details": "Join our gamer loyalty program and earn discounts, early access, and special deals.",
+      "icon": "bi bi-gift"
+    }
+  ]
+}

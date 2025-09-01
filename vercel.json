@@ -1,16 +1,5 @@
 {
   "version": 2,
-  "functions": {
-    "api/items/index.js": {
-      "runtime": "nodejs18.x"
-    },
-    "api/items/[id].js": {
-      "runtime": "nodejs18.x"
-    },
-    "api/services/index.js": {
-      "runtime": "nodejs18.x"
-    }
-  },
   "routes": [
     {
       "src": "/api/(.*)",
